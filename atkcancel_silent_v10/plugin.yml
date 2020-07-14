@@ -1,0 +1,7 @@
+main: nabe\main
+name: atkcancel silient
+version: 10
+api: 3.0.0
+auther: ははっち
+load: POSTWORLD
+description: 指定したワールドでの攻撃をキャンセル
